@@ -1,0 +1,44 @@
+DOCUMENTATION ON WHAT TO DO IF THIS SOURCE CODE IS REUSE TO CREAT ANOTHER ANIME PLATFORM.❤️❤️❤️💝
+
+
+1. From the index.html, episodes and 404, change some of its details, but don't touch any JavaScript src or alter external links.
+
+2. DONT INTERFER WITH THE CSS, THE HIGHEST YOU CAN DO IS CHANGE THE BACKGROUND COLOR.
+
+3. In all the document, change background-1.webp and icon.webp to your desired photo in the IMG FOLDER, don't rename it.
+
+background-2.webp (is for manga)
+background-3.webp (is for episodes)
+
+4. BECAUSE THE WEBSITE IS A PWA APK, don't touch the pwabuilder-sw.js BUT MODIFY THE MANIFEST.JSON FILE, Just change some details and add the right photo, AVOID RENAMING.
+
+5. Go to pwa builder by microsoft and create the apk, then upload it to the root of your website. THE APK ICON, when click on should start downloading to users phone. Check the footer.js in the JS FOLDER AND modify the apk URL link.
+
+6. GO TO "JS FOLDER" and modify the:
+a: footer.js
+b: site_details.js
+DON'T TOUCH ANY OTHER THINGS.
+
+7. GO TO ONEPIECE PLUS PAGE GENERATORS FOR MANGA AND ADD THE FOLLOWING DETAILS TO THE HTML FORM;
+a: site_name
+b: anime_name
+c: site_url
+d: gtags
+e: google_analytic
+f: disqus
+g: manga_title
+h: manga_description
+i: keywords
+j: date_created
+
+8. When generating new code for manga in PAGE GENERATORS, update the details well and try not to make any mistake on the image url. MAKE SURE YOU HAVE UPLOADED IMAGES TO GOOGLE DRIVE AND COPY ONLY THEIR ID.
+
+9. AFTER YOU GENERATE THE MANGA CHAPTER CODE, MAKE SURE YOU UPDATE THE JAVASCRIPT DETAILS ON PAGE META HEADER BEFORE PUBLISHING.
+
+10. LASTLY, remember that google rich data seo allows title and description to be:
+
+60 characters for title
+And 160 character for description 
+
+
+OBSERVE THIS DETAILS AND HAPPY POSTING 😜🔥🔥🔥
