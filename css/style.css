@@ -3,7 +3,7 @@ scroll-behavior: smooth;
 }
 body{
 margin:0px;
-background-color: #333;
+background-color: #111;
 }
 @font-face {
 font-family: 'lato';
@@ -152,7 +152,7 @@ z-index:2;
 transition:.3s;
 position: fixed;
 overflow: scroll;
-background: linear-gradient(180deg,#fff,#fff);
+background: linear-gradient(180deg,#000,#222);
 }
 .header #closenav{
 top:0%;
