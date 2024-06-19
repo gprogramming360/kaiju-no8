@@ -16,7 +16,7 @@ document.write(e);
 var f="<nav id='openav'><h3><strong>"+site_name+"</strong></h3><div class='block-1'>";
 document.write(f);
 //Links
-var g="<span><img src='../img/house-home_white.svg' alt='Home icon'><a href='../index.html' rel='tags' alt='Home'>Home</a></span></br>";
+var g="<span><img src='../img/home_white.svg' alt='Home icon'><a href='../index.html' rel='tags' alt='Home'>Home</a></span></br>";
 document.write(g);
 
 var h="<span><img src='../img/book-reader-solid.svg' alt='Home icon'><a href='#manga' rel='tags' alt='Manga'>Manga</a></span></br>";
