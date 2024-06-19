@@ -20,6 +20,6 @@ document.write(b);
 var gk="<div id='notice' onclick='closenotice()'><div class='block-1'><p><span>Help Guide</span></br>Due to Chrome browser troubleshooting, please use opera mini to surf and enjoy this site. Other complaints <a href='mailto:watchfilm360@gmail.com'>email us now</a></p></div></div>";
 document.write(gk);
 
-var f="<div class='help-me'><a href='javascript:void(0);' onclick='opennotice()' alt='Help me'><img src='../img/help.png' alt='help logo'></a></div><div class='fb-icon'><a href='https://www.facebook.com/onepiece360' alt='Follow our Facebook page'><img src='../img/fb-icon.png' alt='fb logo'></a></div><div class='yt-icon'><a href='https://m.youtube.com/@onepiece-plus' alt='Subscribe to our YouTube Channel'><img src='../img/yt-icon.png' alt='yt logo'></a></div><div class='apk'><a href='../kimetsu.apk' alt='Download Kaiju No 8 Official App'><img src='../../img/apk.webp' alt='apk logo'></a></div>";
+var f="<div class='help-me'><a href='javascript:void(0);' onclick='opennotice()' alt='Help me'><img src='../img/help.png' alt='help logo'></a></div><div class='fb-icon'><a href='https://www.facebook.com/onepiece360' alt='Follow our Facebook page'><img src='../img/fb-icon.png' alt='fb logo'></a></div><div class='yt-icon'><a href='https://m.youtube.com/@onepiece-plus' alt='Subscribe to our YouTube Channel'><img src='../img/yt-icon.png' alt='yt logo'></a></div><div class='apk'><a href='../kaiju-no8.apk' alt='Download Kaiju No 8 Official App'><img src='../../img/apk.webp' alt='apk logo'></a></div>";
 document.write(f);
 //END MISCELLANEOUS CODE
