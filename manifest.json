@@ -7,10 +7,10 @@
   "display": "fullscreen",
   "start_url": "/",
   "short_name": "Kaiju No 8",
-  "theme_color": "#FFFFFF",
+  "theme_color": "#000000",
   "description": "You are Reading Now Kaiju No 8 Manga Online Fully Coloured, Download Latest Anime Episodes And Movies For Free In High Quality Format, only at Monster #8",
   "orientation": "any",
-  "background_color": "#FFFFFF",
+  "background_color": "#000000",
   "related_applications": [],
   "prefer_related_applications": false,
   "display_override": [
@@ -18,13 +18,13 @@
   ],
   "screenshots": [
     {
-      "src": "img/screen/screen.jpg"
+      "src": "img/screen/screenshot-1.webp"
     },
     {
-      "src": "img/screen/screen.jpg"
+      "src": "img/screen/screenshot-2.webp"
     },
     {
-      "src": "img/screen/screen.jpg"
+      "src": "img/screen/screenshot-3.webp"
     }
   ],
   "features": [
