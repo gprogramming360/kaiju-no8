@@ -698,6 +698,16 @@ document.write(a);
 <div class="container-10"><p rel="tags"><span>Tags:</span> <script>document.write(keywords);</script></p></div>
 <!--END SECTION 2 KEYWORDS CHAPTERS-->
 
+<!-----PREV AND NEXT---->
+<script>
+var one1=1;
+var nextpage= page+one1;
+var previouspage= page-one1;
+var classical="<div class='prevnext'><a href='chapter-"+previouspage+".html'>Previous Chapter</a><a href='chapter-"+nextpage+".html' id='next'>Next Chapter</a></div>";
+document.write(classical);
+</script>
+<!-----END PREV AND NEXT---->
+
 <!----Footer---->
 <script src="../js/footer.js"></script>
 <!----End Footer---->
