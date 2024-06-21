@@ -890,4 +890,25 @@ line-height:1.4;
 font-weight: normal;
 text-decoration: none;
 }
+.prevnext{
+width:100%;
+bottom:0px;
+display: flex;
+position: fixed;
+}
+.prevnext a{ 
+width:100%;
+color:#444;
+font-size: 17px;
+font-family: kalam;
+text-align:center;
+line-height:1.4;
+padding:12px;
+font-weight: normal;
+text-decoration: none;
+background-color:#fff;
+}
+.prevnext a #next{
+padding:12px;
+}
 /*END MISCELLANEOUS*/
