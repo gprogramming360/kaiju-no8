@@ -898,7 +898,7 @@ position: fixed;
 }
 .prevnext a{ 
 width:100%;
-color:#444;
+color:#fff;
 font-size: 17px;
 font-family: kalam;
 text-align:center;
@@ -906,7 +906,7 @@ line-height:1.4;
 padding:12px;
 font-weight: normal;
 text-decoration: none;
-background-color:#222;
+background-color:#111;
 }
 .prevnext a #next{
 padding:12px;
