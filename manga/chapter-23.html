@@ -127,7 +127,7 @@ document.write(bz);
 <!--Manga images---->
 <script>
 for(var i=it_start; i<=it_ends; i++){
-  var img_des = "<div itemprop=\"itemListElement\" itemscope itemtype=\"https://schema.org/ListItem\"><img itemprop=\"image\" src=\""+manga_url+"/anime/manga/"+manga_string+"/chapter-"+page+"/prefix"+i+"."+img_ext+"\" alt=\""+anime_name+" Chapter "+page+" Page "+i+"\"><a href=\"chapter-"+page+".html\" itemprop=\"url\" alt=\""+anime_name+" Chapter "+page+" Page "+i+"\"><h2 itemprop=\"name\" id=\"hide\">Demon Slayer Chapter "+page+" Page "+i+"</h2></a><meta itemprop=\"position\" content=\""+i+"\"></div><br>";
+  var img_des = "<div itemprop=\"itemListElement\" itemscope itemtype=\"https://schema.org/ListItem\"><img itemprop=\"image\" src=\""+manga_url+"/anime/manga/"+manga_string+"/chapter-"+page+"/prefix"+i+"."+img_ext+"\" alt=\""+anime_name+" Chapter "+page+" Page "+i+"\"><a href=\"chapter-"+page+".html\" itemprop=\"url\" alt=\""+anime_name+" Chapter "+page+" Page "+i+"\"><h2 itemprop=\"name\" id=\"hide\">"+anime_name+" Chapter "+page+" Page "+i+"</h2></a><meta itemprop=\"position\" content=\""+i+"\"></div><br>";
   document.write(img_des);
 }
 </script>
